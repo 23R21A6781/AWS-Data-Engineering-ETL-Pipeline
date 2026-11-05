@@ -107,13 +107,7 @@ Verify S3 output files, Glue job logs, data quality results and Redshift table c
 
 ## Credits and Attribution
 
-This repository is a modified version of the original public project:
+** maintained by:** [23R21A6781](https://github.com/23R21A6781)
 
-[Original AWS End-to-End ETL Pipeline](https://github.com/prthm2910/AWS-End-to-End-ETL-Pipeline)
-
-Original author: `prthm2910`
-
-Maintainer of this modified version: **[Your Name]**
-
-Modifications and contributions should be documented as they are made.
+This repository retains the original project attribution. Future modifications and contributions will be documented here.
 
